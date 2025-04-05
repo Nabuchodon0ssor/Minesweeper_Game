@@ -1,4 +1,3 @@
-```markdown
 # Minesweeper Game
 
 This is a Minesweeper game implemented in Java. The objective of the game is to clear a grid of hidden mines without detonating any of them. The player must use logic and deduction to determine where the mines are located.
