@@ -25,10 +25,10 @@ This is a Minesweeper game implemented in Java. The objective of the game is to 
 
 2. Navigate to the project directory:
     ```bash
-  cd Minesweeper_Game
+        cd Minesweeper_Game
 
 3. Compile and run the game:
   
-  Open the project in your favorite IDE (e.g., IntelliJ IDEA).
+        Open the project in your favorite IDE (e.g., IntelliJ IDEA).
    ```bash
-  Run the Main.java file, which is under src/main/java/com/game/minesweeper.
+        Run the Main.java file, which is under src/main/java/com/game/minesweeper.
