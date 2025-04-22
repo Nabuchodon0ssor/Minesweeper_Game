@@ -17,6 +17,9 @@ This is a Minesweeper game implemented in Java. The objective of the game is to 
 - Simple and intuitive user interface.
 - Timer to track how long it takes to complete the game.
 
+## Screenshots
+![screenshot](https://github.com/user-attachments/assets/2c4ca304-9691-4b91-9203-c2bba8b43f5e)
+
 ## How to Run
 
 1. Clone this repository:
