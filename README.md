@@ -17,18 +17,23 @@ This is a Minesweeper game implemented in Java. The objective of the game is to 
 - Simple and intuitive user interface.
 - Timer to track how long it takes to complete the game.
 
+## Screenshots
+![screenshot](https://github.com/user-attachments/assets/2c4ca304-9691-4b91-9203-c2bba8b43f5e)
+
 ## How to Run
 
 1. Clone this repository:
    ```bash
    git clone https://github.com/Nabuchodon0ssor/Minesweeper_Game.git
 
-2. Navigate to the project directory:
-    ```bash
-   cd Minesweeper_Game
+2. Open the project in your favorite Java IDE (e.g., IntelliJ IDEA or Eclipse).
 
-3. Compile and run the game:
-  
-   Open the project in your favorite IDE (e.g., IntelliJ IDEA).
+3. Make sure you have:
    ```bash
-   Run the Main.java file, which is under src/main/java/com/game/minesweeper.
+   Java 17+
+   Maven enabled (IDE will detect pom.xml)
+   JavaFX plugin not required — it’s all configured
+4. Run the Main.java file:
+   ```bash
+   File location: src/main/java/com/game/minesweeper/Main.java
+   Or use the IDE’s “Run” button.
